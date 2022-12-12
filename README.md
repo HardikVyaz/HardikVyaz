@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik Vyas</h1>
-<h3 align="center">A passionate frontend developer from India, also a full stack developer</h3>
+<h3 align="center">I'm a Full Stack Developer seeking a challenging position in a organization where I can enhance and explore my technical knowledge which includes Frontend: HTML, CSS, JavaScript (currently self learning React and Angular), Java, Python & SQL. I hold a B.Tech. Degree in Mechanical Engineering from M S Ramaiah University of Applied Sciences. I am Flexible for any Software roles also very adaptive and quick learner to any clients requested technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikvyaz&label=Profile%20views&color=0e75b6&style=flat" alt="hardikvyaz" /> </p>
 
